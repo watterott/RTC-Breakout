@@ -1,4 +1,8 @@
 #!/usr/bin/python 
+'''
+Example source code free to use.
+Further information: https://learn.watterott.com/license/
+'''
 
 import time
 import datetime
